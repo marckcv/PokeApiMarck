@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+    font-family: 'Press Start 2P', cursive;
+}
+.img-fluid {
+    background-image: url("./blob.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
